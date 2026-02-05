@@ -62,4 +62,5 @@ I used CSS Variables (`:root`) to maintain consistency:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/mayurbadgujar03/Cursor-Clone-HTML_CSS](https://github.com/mayurbadgujar03/Cursor-Clone-HTML_CSS)
+   git clone https://github.com/mayurbadgujar03/Cursor-Clone-HTML_CSS
+   ```
