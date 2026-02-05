@@ -512,6 +512,8 @@ footer {
 }
 
 .copyright {
+  display: flex;
+  justify-content: space-between;
   margin-top: 40px;
   padding-top: 20px;
   color: var(--c-mute-text);
@@ -538,4 +540,5 @@ footer {
     color: white !important;
     font-size: 24px !important;
   }
+
 }
